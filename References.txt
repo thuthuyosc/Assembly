@@ -1,0 +1,13 @@
+Input/Output integer:
+https://www.youtube.com/watch?v=uKOKQlNRHsc
+
+String handling:
+https://www.youtube.com/watch?v=XFzTWYm3_zY&list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc&index=8
+https://stackoverflow.com/questions/13206644/i-dont-understand-how-to-useinterrupt-21-ah-0ah
+
+Details int 21h:
+http://bbc.nvg.org/doc/Master%20512%20Technical%20Guide/m512techb_int21.htm
+https://www.philadelphia.edu.jo/academics/qhamarsheh/uploads/Lecture%2021%20MS-DOS%20Function%20Calls%20_INT%2021h_.pdf
+
+Get shift status:
+http://vitaly_filatov.tripod.com/ng/asm/asm_027.3.html
